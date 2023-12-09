@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    text-align: center;
+    padding: 10px;
+
+}
+
+#ul1 {
+    padding: 20px;
+    list-style-position: inside;
+}
+#ul1 li {
+    padding: 0;
+    display: inline-block;
+
+}
+#ul1 li a {
+    padding: 8px 16px;
+}
+
+#Ana-sayfa {
+    padding: 5px;
+    color: purple;
+}
+
+#ul2 li {
+    list-style-position: inside;
+}
+
+#Urunlerimiz {
+    color: palevioletred;
+}
+ol {
+    list-style-position: inside;
+}
+#viziyon {
+    text-align: left;
+    color: aqua;
+}
+#viziyon-p {
+    text-align: left;
+}
+#misyonumuz {
+    text-align: left;
+    color: aquamarine;
+}
+#misyonumuz-p {
+    text-align: left;
+}
